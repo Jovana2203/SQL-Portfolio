@@ -7,7 +7,7 @@ This repository contains solutions to high-level logic problems, demonstrating m
 * **Advanced Reporting:** Utilizing ranking and analytical functions for business intelligence.
 
 ###  Professional Background
-* **Master’s Degree in IT:** Strong foundation in technical and economic fields.
+* **Master’s Degree in IT:** Strong foundation in technical fields.
 * **Product Specialist (10 months):** Managed product lifecycles, technical documentation, and complex system implementations in a banking environment.
 * **Technical Production Support (1.5+ years):** First-line response for database issues, ETL monitoring, and data integrity in high-stakes financial systems.
 
